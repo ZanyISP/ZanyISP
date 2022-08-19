@@ -12,7 +12,7 @@
 Hi.. My name is Matthew, I am a 20 year old Business Owner and Motorsports Driver and Enthusiast. I work in Several Capacities in the Motorsports industry from driving to Drive Data Analysis to Marketing. I also work in the Open Source world with my Company Rabbit-Company, in which I am a partial owner of and the Director of Business Management. 
 
 <hr>
-<h3> 💻I use this programs...</h3>
+<h3> 💻I use theses programs...</h3>
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/1089146?s=200&v=4" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
