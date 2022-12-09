@@ -40,7 +40,6 @@ Hi.. My name is Matthew, I am a 20 year old Business Owner and Motorsports Drive
   <div align="center">
   <h3> 💻 What OS am I using...</h3>
     <img src="https://static.techspot.com/images2/downloads/topdownload/2021/08/2021-08-12-ts3_thumbs-9cf-p_256.webp" title="Windows 11" alt="Windows 11" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   </div>
   <hr>
 <article align="center">
