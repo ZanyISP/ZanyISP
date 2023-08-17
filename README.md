@@ -6,7 +6,7 @@
 <div id="Introduction" align="center">
   <h3>👋 Introduction</h3>
   Hello!, here is some more info about me and my current projects. 
-Hi.. My name is Matthew, I am a 21 year old Business Owner and Motorsports Driver and Enthusiast. I work in Several Capacities in the Motorsports industry from driving to Drive Data Analysis to Marketing. I also work in the Open Source world with my Company Rabbit-Company, in which I am a partial owner of and the Director of Business Management. I like to use GitHub to see what amazing things people are creating and to keep myself organized from time to time.
+Hi... My name is Matthew, I am a 21-year-old Business Owner and Motorsports Driver and Enthusiast. I work in Several Capacities in the Motorsports industry from driving to Drive Data Analysis to Marketing. I also work in the Open Source world with my Company Rabbit-Company, which I am a partial owner of and the Director of Business Management. I like to use GitHub to see what amazing things people are creating and keep myself organized occasionally.
 
 <hr>
 <h3> 💻I use theses programs...</h3>
@@ -25,7 +25,7 @@ Hi.. My name is Matthew, I am a 21 year old Business Owner and Motorsports Drive
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" title="ObjectiveC" alt="ObjectiveC" width="40" height="40"/>&nbsp;
-    <img src="[https://cdn.buttercms.com/kvaKsz41SICJGw27Ic5K](https://d33wubrfki0l68.cloudfront.net/299b7c5d003eff5822d570f20bfdce1245ab3962/ed434/images/frameworks/astro.jpg)" title=JavaAstro alt=JavaAstro width="40" height="40"/>&nbsp;
+    <img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" title=JavaAstro alt=JavaAstro width="40" height="40"/>&nbsp;
 </div>
     <hr>
     <h3>🎮 Game Engines I use..</h3>
