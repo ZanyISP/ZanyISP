@@ -6,7 +6,7 @@
 <div id="Introduction" align="center">
   <h3>👋 Introduction</h3>
   Hello!, here is some more info about me and my current projects. 
-Hi... My name is Matthew, I am a 21-year-old Business Owner and Motorsports Driver and Enthusiast. I work in Several Capacities in the Motorsports industry from driving to Drive Data Analysis to Marketing. I also work in the Open Source world with my Company Rabbit-Company, which I am a partial owner of and the Director of Business Management. I like to use GitHub to see what amazing things people are creating and keep myself organized occasionally.
+Hi... My name is Matthew, I am a 21-year-old Business Owner and Motorsports Driver and Enthusiast. I work in Several Capacities in the Motorsports industry from driving to Drive Data Analysis to Marketing. I also work with MegaBytes Technology in SaaS, which I am a partial owner of. I like to use GitHub to see what amazing things people are creating and keep myself organized occasionally.
 
 <hr>
 <h3> 💻I use theses programs...</h3>
@@ -35,7 +35,7 @@ Hi... My name is Matthew, I am a 21-year-old Business Owner and Motorsports Driv
     
   <div align="center">
   <h3> ✨ I am working at...</h3>
-    <img src="https://rabbit-company.com/images/logo.png" title="RabbitCompany" alt="RabbitCompany" width="40" height="40"/>&nbsp;
+    <img src="" title="RabbitCompany" alt="" width="40" height="40"/>&nbsp;
   </div>
   <hr>
   <div align="center">
