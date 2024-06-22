@@ -6,7 +6,7 @@
 <div id="Introduction" align="center">
   <h3>👋 Introduction</h3>
   Hello!, here is some more info about me and my current projects. 
-Hi... My name is Matthew, I am a 21-year-old Business Owner and Motorsports Driver and Enthusiast. I work in Several Capacities in the Motorsports industry from driving to Drive Data Analysis to Marketing. I like to use GitHub to see what amazing things people are creating and keep myself organized occasionally.
+Hi... My name is Matthew, I am a 22-year-old Business Owner and Motorsports Driver and Enthusiast. I work in Several Capacities in the Motorsports industry from driving to Drive Data Analysis to Marketing. I like to use GitHub to see what amazing things people are creating and keep myself organized occasionally with my own fun projects.
 
 <hr>
 <h3> 💻I use theses programs...</h3>
